@@ -1,0 +1,20 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# build artifacts
+*.log
+*.tmp
+__pycache__/
+*.pyc
+
+# env-specific
+.env
+local.config
+
+# accidentally copied runtime
+runtime/
+cache/
+logs/
